@@ -1,0 +1,14 @@
+2023-07-24 13:18:42,837 :INFO :introPytest.test_logging :Info
+2023-07-24 13:18:42,837 :CRITICAL :introPytest.test_logging :critical
+2023-07-24 13:18:42,837 :ERROR :introPytest.test_logging :Error
+2023-07-24 13:18:42,837 :WARNING :introPytest.test_logging :Warning
+2023-07-24 13:23:32,492 :INFO :introPytest.test_logging :Info
+2023-07-24 13:23:32,492 :CRITICAL :introPytest.test_logging :critical
+2023-07-24 13:23:32,492 :ERROR :introPytest.test_logging :Error
+2023-07-24 13:23:32,492 :WARNING :introPytest.test_logging :Warning
+2023-07-24 13:24:02,178 :DEBUG :introPytest.test_logging :Debug
+2023-07-24 13:24:02,179 :INFO :introPytest.test_logging :Info
+2023-07-24 13:24:02,179 :CRITICAL :introPytest.test_logging :critical
+2023-07-24 13:24:02,179 :ERROR :introPytest.test_logging :Error
+2023-07-24 13:24:02,179 :WARNING :introPytest.test_logging :Warning
+2023-07-24 13:24:22,572 :CRITICAL :introPytest.test_logging :critical
